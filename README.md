@@ -21,4 +21,4 @@ stream video of Pedestrians detection using  opencv background subtraction and p
 
 ## step (4)
 #### Android chrome browser !
-![alt text](https://github.com/seraj94ai/matlab-cnn/blob/main/cnn_flow.PNG)
+![alt text](https://github.com/seraj94ai/Flask-streaming-Pedestrians-detection-using-python-opencv-/blob/master/img/4.png)
